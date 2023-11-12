@@ -1,0 +1,7 @@
+{
+  "parent": "tintedflowers:block/tintable_cross_with_overlay",
+  "textures": {
+    "cross": "tintedflowers:block/blue_orchid_flower",
+    "tint": "tintedflowers:block/blue_orchid_tint"
+  }
+}

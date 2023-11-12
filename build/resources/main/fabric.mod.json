@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "tintedflowers",
+	"version": "1.0.0",
+	"name": "Biome Tinted Flowers",
+	"description": "Adds biome tint to the stems and leaves of flowers!",
+	"authors": [
+		"Hecco"
+	],
+	"contact": {
+		"socials": "https://linktr.ee/thehecco"
+	},
+	"license": "MIT",
+	"icon": "assets/tintedflowers/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"client": [
+			"net.hecco.tintedflowers.BiomeTintedFlowers"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.14.22",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "tintedflowers:block/tintable_cross_with_overlay",
+  "textures": {
+    "cross": "tintedflowers:block/cornflower_flower",
+    "tint": "tintedflowers:block/cornflower_tint"
+  }
+}
