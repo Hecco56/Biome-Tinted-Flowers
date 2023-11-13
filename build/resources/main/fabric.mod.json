@@ -8,7 +8,9 @@
 		"Hecco"
 	],
 	"contact": {
-		"socials": "https://linktr.ee/thehecco"
+		"homepage": "https://linktr.ee/thehecco",
+		"sources": "https://github.com/Heccology/Biome-Tinted-Flowers",
+		"issues": "https://github.com/Heccology/Biome-Tinted-Flowers/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/tintedflowers/icon.png",
