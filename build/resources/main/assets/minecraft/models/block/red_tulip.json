@@ -1,7 +1,0 @@
-{
-  "parent": "tintedflowers:block/tintable_cross_with_overlay",
-  "textures": {
-    "cross": "tintedflowers:block/red_tulip_flower",
-    "tint": "tintedflowers:block/red_tulip_tint"
-  }
-}

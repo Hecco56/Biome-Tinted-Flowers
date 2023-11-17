@@ -1,6 +1,0 @@
-{
-  "parent": "tintedflowers:block/tintable_cross",
-  "textures": {
-    "cross": "tintedflowers:block/sunflower_bottom"
-  }
-}

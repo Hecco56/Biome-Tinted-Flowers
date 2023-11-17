@@ -1,7 +1,0 @@
-{
-  "parent": "tintedflowers:block/tintable_cross_with_overlay",
-  "textures": {
-    "cross": "tintedflowers:block/oxeye_daisy_flower",
-    "tint": "tintedflowers:block/oxeye_daisy_tint"
-  }
-}
