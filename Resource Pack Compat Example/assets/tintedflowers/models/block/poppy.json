@@ -1,0 +1,50 @@
+{
+	"credit": "Made with Blockbench by Hecco",
+	"textures": {
+		"0": "tintedflowers:block/poppy_flower",
+		"1": "tintedflowers:block/poppy_tint",
+		"particle": "tintedflowers:block/poppy_flower"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 16, 14],
+			"faces": {
+				"north": {"uv": [2, 0, 14, 16], "texture": "#0"},
+				"east": {"uv": [2, 0, 14, 16], "texture": "#0"},
+				"south": {"uv": [2, 0, 14, 16], "texture": "#0"},
+				"west": {"uv": [2, 0, 14, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [14, 0, 2],
+			"to": [2, 16, 14],
+			"faces": {
+				"north": {"uv": [2, 0, 14, 16], "texture": "#0"},
+				"east": {"uv": [2, 0, 14, 16], "texture": "#0"},
+				"south": {"uv": [2, 0, 14, 16], "texture": "#0"},
+				"west": {"uv": [2, 0, 14, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [14, 0, 2],
+			"to": [2, 16, 14],
+			"faces": {
+				"north": {"uv": [2, 0, 14, 16], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [2, 0, 14, 16], "texture": "#1", "tintindex": 0},
+				"south": {"uv": [2, 0, 14, 16], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [2, 0, 14, 16], "texture": "#1", "tintindex": 0}
+			}
+		},
+		{
+			"from": [2, 0, 2],
+			"to": [14, 16, 14],
+			"faces": {
+				"north": {"uv": [2, 0, 14, 16], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [2, 0, 14, 16], "texture": "#1", "tintindex": 0},
+				"south": {"uv": [2, 0, 14, 16], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [2, 0, 14, 16], "texture": "#1", "tintindex": 0}
+			}
+		}
+	]
+}
