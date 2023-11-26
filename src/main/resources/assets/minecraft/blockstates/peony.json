@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "tintedflowers:block/peony_bottom"
+    },
+    "half=upper": {
+      "model": "tintedflowers:block/peony_top"
+    }
+  }
+}
